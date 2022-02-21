@@ -1,4 +1,4 @@
-# [_Lorem Ipsum_](https://z0r.de)
+# [_Lorem Ipsum_]
 
 1. Lorem ipsum dolor si**t** amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
 Magnis dis parturient montes nascetur ridiculus mus mauris vitae. Lobortis mattis aliquam faucibus purus in massa.  
@@ -22,21 +22,21 @@ Id nibh tortor id aliquet. Phasellus egestas tellus rutrum tellus pellentesque e
 Ante metus dictum at tempor commodo ullamcorper a. Ut eu sem integer vitae justo eget magna fermentum iaculis. 
 Libero enim sed faucibus turpis. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper. 
 Lorem ipsum dolor sit amet consectetur adipiscing. Volutpat blandit aliquam etiam erat velit. 
-Aliquet risus feugiat in ante [metus][nice] dictum. Lectus quam id leo in vitae. 
+Aliquet risus feugiat in ante [metus] dictum. Lectus quam id leo in vitae. 
 Mi tempus imperdiet nulla malesuada pellentesque. In fermentum et sollicitudin ac orci phasellus. 
 Aliquam nulla facilisi cras fermentum odio eu feugiat. In tellus integer feugiat scelerisque varius morbi enim nunc faucibus. 
 Pretium viverra suspendisse potenti nullam. Id ornare arcu odio ut sem.**
 
 ### How about an unordered list next?
 * Fermentum leo vel orci porta. 
-  * Augue lacus [viverra][nice] vitae congue eu consequat ac. 
+  * Augue lacus [viverra] vitae congue eu consequat ac. 
 * Magnis dis parturient montes nascetur. 
   * Tristique senectus et netus et malesuada fames ac. 
 * Nunc faucibus a pellentesque sit amet porttitor eget dolor. 
   * Purus ut faucibus pulvinar elementum integer. 
-* Habitasse platea [dictumst][nice] quisque sagittis purus sit. 
+* Habitasse platea [dictumst] quisque sagittis purus sit. 
   * Neque egestas congue quisque egestas diam. 
 * Non blandit massa enim nec dui nunc. 
   * Sagittis id consectetur purus ut faucibus pulvinar elementum.
 
-[nice]: https://z0r.de
+[_lorem ipsum_]: <https://z0r.de>
